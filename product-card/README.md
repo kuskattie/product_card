@@ -23,7 +23,7 @@ This project demonstrates an implementation of a responsive product card using r
 
 Demo
 
-https://product-card-delta-sand.vercel.app/
+https://kuskattie.github.io/product_card/
 
 Implementation Highlights
 	•	Fast development with Vite
